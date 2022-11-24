@@ -1,0 +1,27 @@
+body {
+  background-color: #CFF5E7;
+  text-align: center;
+}
+h1 {
+  font-size: 5rem;
+  color: #59C1BD;
+}
+h2 {
+  font-size: 7rem;
+  color: #59C1BD;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.table {
+  color: #59C1BD;
+  font-size: 3rem;
+}
+#myButton {
+  color: #59C1BD;
+  background-color: #CFF5E7;
+  border-radius: 1px;
+  font-size: 1.5rem;
+}
+#myNumber {
+  font-size: 1.5rem;
+}
